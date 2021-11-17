@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Banco Inter**
 
-- 🌱 I’m currently learning **XCTest**
+- 🌱 I’m currently learning **Protocols**
 
 - 💬 Ask me about **Swift, SwiftUI**
 
